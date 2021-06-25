@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head> 
+        <title>Introdução CSS.</title>
+       <link rel="stylesheet" href="css/estilo.CSS">
+       <meta name="viewport">
+       <script src="https://kit.fontawesome.com/8ea9353849.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <!--início do topo--> 
+        <header class="topo">
+            <nav class="menu">
+                <ul id="meus links">
+                    <li><a href="#">Ínicio</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Desafios</a></li>
+                    <li><a href="#">Endereço</a></li>
+                </ul>
+                <a href="#" class="btn-menu" onclick="botaoDomenu()">
+                    <i class="fas fa-bars"></i>                
+                </a>
+                
+            </nav>
+        </header>
+        <!--Fim do topo-->
+
+        <section class="banner"> <!--início da section 1-->
+            <div class="content alinhando-abaixo">
+                <div class="banner-text"> 
+                    <h1> <span class="vermelho">D</span>esenvolvimento de Sistemas 2020</h1>
+                    
+                    <div class="linha"></div>
+                    <p>SENAI Informática</p>
+                    <img src="img/mouse-down.png" alt="mouse amarelo com seta para baixo - Ir para a sessão X">
+                </div>    
+            </div>
+        </section> 
+        <!--fim da section 1-->
+        <section class="sobre">
+            <div class="content">
+                <h2>Sobre Projetos.</h2>
+                <article class="artigo-sobre">
+                    <img src="img/imagem-seção-sobre.jpg" alt="Homem exibindo objeto para um grupo">
+                    <div class="artigo-text-sobre">
+                        <h3>Participantes</h3>
+                        <h3>Mais de 80 alunos organizados em 16 grupos</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa expedita placeat impedit, rem voluptates exercitationem? Repudiandae ea mollitia aliquam labore. Praesentium quibusdam exercitationem, sunt quidem reiciendis non esse natus perferendis.</p>
+
+                    </div>
+                </article>
+            </div>
+        </section>
+        <section class="info">
+            <div class="info-flex">
+                <div class="info-card">
+                    <h4>Local</h4>
+                    <p>São Paulo</p>
+                </div>
+                <div class="info-card">
+                    <h4>Duração</h4>
+                    <p>90 Dias</p>
+                </div>
+                <div class="info-card">
+                    <h4>Desafios</h4>
+                    <p>+De 30 Desafios</p>
+                </div>
+
+            </div>
+        </section>
+        <section class="endereco">
+            <div class="content alinhamento-centro">
+                <div>
+                    <h2>Endereço</h2>
+                    <div class="end-text">
+                        <p>Alameda Barão de Limeira, 539 <br>
+                        Santa Cecília, São Paulo-SP <br>
+                        CEP 01201-001
+                        </p>
+                        <img src="img/mapa.png" alt="Mapa">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="rodape">
+            <div class="content alinhamento-centro1">
+                <p>Copyright © 2020 - Escola Senai de Informática</p>
+            </div>
+        </footer>
+        <script>
+            function botaoDomenu(){
+                var ulDomenu= document.getElementById("meuslinks");
+                if (ulDomenu.style.display=== "flex" ) {
+                    ulDomenu.style.display = "none";
+                } else{
+                    ulDomenu.style.display= "flex";
+                }
+            }
+        </script>
+    </body>
+</html>

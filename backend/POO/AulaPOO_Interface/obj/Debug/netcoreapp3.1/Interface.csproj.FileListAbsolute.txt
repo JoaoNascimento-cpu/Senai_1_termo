@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache

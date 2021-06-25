@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\obj\Debug\netcoreapp3.1\Arrey.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\obj\Debug\netcoreapp3.1\Arrey.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\obj\Debug\netcoreapp3.1\Arrey.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\obj\Debug\netcoreapp3.1\Arrey.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\bin\Debug\netcoreapp3.1\Arrey.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\bin\Debug\netcoreapp3.1\Arrey.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\bin\Debug\netcoreapp3.1\Arrey.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\bin\Debug\netcoreapp3.1\Arrey.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\bin\Debug\netcoreapp3.1\Arrey.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\bin\Debug\netcoreapp3.1\Arrey.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\obj\Debug\netcoreapp3.1\Arrey.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\obj\Debug\netcoreapp3.1\Arrey.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 6\Arrey\obj\Debug\netcoreapp3.1\Arrey.genruntimeconfig.cache

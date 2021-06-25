@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\obj\Debug\netcoreapp3.1\Loja.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\obj\Debug\netcoreapp3.1\Loja.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\obj\Debug\netcoreapp3.1\Loja.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\obj\Debug\netcoreapp3.1\Loja.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\bin\Debug\netcoreapp3.1\Loja.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\bin\Debug\netcoreapp3.1\Loja.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\bin\Debug\netcoreapp3.1\Loja.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\bin\Debug\netcoreapp3.1\Loja.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\bin\Debug\netcoreapp3.1\Loja.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\bin\Debug\netcoreapp3.1\Loja.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\obj\Debug\netcoreapp3.1\Loja.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\obj\Debug\netcoreapp3.1\Loja.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Loja\obj\Debug\netcoreapp3.1\Loja.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\bin\Debug\netcoreapp3.1\Dolar, Euro, Libra.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\bin\Debug\netcoreapp3.1\Dolar, Euro, Libra.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\bin\Debug\netcoreapp3.1\Dolar, Euro, Libra.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\bin\Debug\netcoreapp3.1\Dolar, Euro, Libra.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\bin\Debug\netcoreapp3.1\Dolar, Euro, Libra.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\bin\Debug\netcoreapp3.1\Dolar, Euro, Libra.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\obj\Debug\netcoreapp3.1\Dolar, Euro, Libra.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\obj\Debug\netcoreapp3.1\Dolar, Euro, Libra.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\obj\Debug\netcoreapp3.1\Dolar, Euro, Libra.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\obj\Debug\netcoreapp3.1\Dolar, Euro, Libra.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\obj\Debug\netcoreapp3.1\Dolar, Euro, Libra.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\obj\Debug\netcoreapp3.1\Dolar, Euro, Libra.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Classes, Métodos e atributos\Dolar, Euro, Libra\obj\Debug\netcoreapp3.1\Dolar, Euro, Libra.genruntimeconfig.cache

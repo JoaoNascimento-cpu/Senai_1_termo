@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\bin\Debug\netcoreapp3.1\Cadastro passagens aéreas.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\bin\Debug\netcoreapp3.1\Cadastro passagens aéreas.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\bin\Debug\netcoreapp3.1\Cadastro passagens aéreas.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\bin\Debug\netcoreapp3.1\Cadastro passagens aéreas.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\bin\Debug\netcoreapp3.1\Cadastro passagens aéreas.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\bin\Debug\netcoreapp3.1\Cadastro passagens aéreas.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\obj\Debug\netcoreapp3.1\Cadastro passagens aéreas.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\obj\Debug\netcoreapp3.1\Cadastro passagens aéreas.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\obj\Debug\netcoreapp3.1\Cadastro passagens aéreas.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\obj\Debug\netcoreapp3.1\Cadastro passagens aéreas.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\obj\Debug\netcoreapp3.1\Cadastro passagens aéreas.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\obj\Debug\netcoreapp3.1\Cadastro passagens aéreas.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Cadastro passagens aéreas\obj\Debug\netcoreapp3.1\Cadastro passagens aéreas.genruntimeconfig.cache

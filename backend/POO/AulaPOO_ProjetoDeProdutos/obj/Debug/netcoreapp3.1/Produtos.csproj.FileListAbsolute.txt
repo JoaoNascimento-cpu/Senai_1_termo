@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\bin\Debug\netcoreapp3.1\Produtos.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\bin\Debug\netcoreapp3.1\Produtos.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\bin\Debug\netcoreapp3.1\Produtos.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\bin\Debug\netcoreapp3.1\Produtos.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\bin\Debug\netcoreapp3.1\Produtos.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\obj\Debug\netcoreapp3.1\Produtos.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\obj\Debug\netcoreapp3.1\Produtos.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\obj\Debug\netcoreapp3.1\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\obj\Debug\netcoreapp3.1\Produtos.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\obj\Debug\netcoreapp3.1\Produtos.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\POO\Produtos\obj\Debug\netcoreapp3.1\Produtos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\bin\Debug\netcoreapp3.1\Cartão de credito.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\bin\Debug\netcoreapp3.1\Cartão de credito.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\bin\Debug\netcoreapp3.1\Cartão de credito.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\bin\Debug\netcoreapp3.1\Cartão de credito.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\bin\Debug\netcoreapp3.1\Cartão de credito.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\bin\Debug\netcoreapp3.1\Cartão de credito.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\obj\Debug\netcoreapp3.1\Cartão de credito.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\obj\Debug\netcoreapp3.1\Cartão de credito.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\obj\Debug\netcoreapp3.1\Cartão de credito.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\obj\Debug\netcoreapp3.1\Cartão de credito.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\obj\Debug\netcoreapp3.1\Cartão de credito.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\obj\Debug\netcoreapp3.1\Cartão de credito.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Orientação Objeto\Trabalho 3\Cartão de credito\obj\Debug\netcoreapp3.1\Cartão de credito.genruntimeconfig.cache

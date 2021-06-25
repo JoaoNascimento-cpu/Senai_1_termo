@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tabuada inversa/1.0.0": {
+        "runtime": {
+          "Tabuada inversa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabuada inversa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

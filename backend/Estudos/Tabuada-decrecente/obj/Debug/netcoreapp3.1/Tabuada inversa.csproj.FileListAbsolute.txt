@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\bin\Debug\netcoreapp3.1\Tabuada inversa.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\bin\Debug\netcoreapp3.1\Tabuada inversa.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\bin\Debug\netcoreapp3.1\Tabuada inversa.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\bin\Debug\netcoreapp3.1\Tabuada inversa.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\bin\Debug\netcoreapp3.1\Tabuada inversa.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\bin\Debug\netcoreapp3.1\Tabuada inversa.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\obj\Debug\netcoreapp3.1\Tabuada inversa.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\obj\Debug\netcoreapp3.1\Tabuada inversa.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\obj\Debug\netcoreapp3.1\Tabuada inversa.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\obj\Debug\netcoreapp3.1\Tabuada inversa.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\obj\Debug\netcoreapp3.1\Tabuada inversa.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\obj\Debug\netcoreapp3.1\Tabuada inversa.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Tabuada inversa\obj\Debug\netcoreapp3.1\Tabuada inversa.genruntimeconfig.cache

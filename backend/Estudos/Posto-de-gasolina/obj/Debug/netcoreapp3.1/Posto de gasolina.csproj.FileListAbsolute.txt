@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\bin\Debug\netcoreapp3.1\Posto de gasolina.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\bin\Debug\netcoreapp3.1\Posto de gasolina.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\bin\Debug\netcoreapp3.1\Posto de gasolina.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\bin\Debug\netcoreapp3.1\Posto de gasolina.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\bin\Debug\netcoreapp3.1\Posto de gasolina.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\bin\Debug\netcoreapp3.1\Posto de gasolina.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\obj\Debug\netcoreapp3.1\Posto de gasolina.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\obj\Debug\netcoreapp3.1\Posto de gasolina.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\obj\Debug\netcoreapp3.1\Posto de gasolina.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\obj\Debug\netcoreapp3.1\Posto de gasolina.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\obj\Debug\netcoreapp3.1\Posto de gasolina.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\obj\Debug\netcoreapp3.1\Posto de gasolina.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 8\Posto de gasolina\obj\Debug\netcoreapp3.1\Posto de gasolina.genruntimeconfig.cache

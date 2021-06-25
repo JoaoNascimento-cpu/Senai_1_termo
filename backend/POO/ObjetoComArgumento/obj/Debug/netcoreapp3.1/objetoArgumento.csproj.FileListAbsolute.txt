@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.genruntimeconfig.cache

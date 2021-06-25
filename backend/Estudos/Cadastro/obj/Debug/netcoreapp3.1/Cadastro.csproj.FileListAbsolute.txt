@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache

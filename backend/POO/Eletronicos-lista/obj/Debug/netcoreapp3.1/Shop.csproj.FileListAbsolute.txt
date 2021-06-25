@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\Metódos contrutores\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\bin\Debug\netcoreapp3.1\informações usuário.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\bin\Debug\netcoreapp3.1\informações usuário.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\bin\Debug\netcoreapp3.1\informações usuário.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\bin\Debug\netcoreapp3.1\informações usuário.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\bin\Debug\netcoreapp3.1\informações usuário.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\bin\Debug\netcoreapp3.1\informações usuário.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\obj\Debug\netcoreapp3.1\informações usuário.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\obj\Debug\netcoreapp3.1\informações usuário.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\obj\Debug\netcoreapp3.1\informações usuário.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\obj\Debug\netcoreapp3.1\informações usuário.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\obj\Debug\netcoreapp3.1\informações usuário.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\obj\Debug\netcoreapp3.1\informações usuário.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\informações usuário\obj\Debug\netcoreapp3.1\informações usuário.genruntimeconfig.cache

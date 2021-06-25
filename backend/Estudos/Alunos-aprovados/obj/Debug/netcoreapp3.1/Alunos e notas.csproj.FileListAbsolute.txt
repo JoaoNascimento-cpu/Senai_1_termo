@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\bin\Debug\netcoreapp3.1\Alunos e notas.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\bin\Debug\netcoreapp3.1\Alunos e notas.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\bin\Debug\netcoreapp3.1\Alunos e notas.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\bin\Debug\netcoreapp3.1\Alunos e notas.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\bin\Debug\netcoreapp3.1\Alunos e notas.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\bin\Debug\netcoreapp3.1\Alunos e notas.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\obj\Debug\netcoreapp3.1\Alunos e notas.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\obj\Debug\netcoreapp3.1\Alunos e notas.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\obj\Debug\netcoreapp3.1\Alunos e notas.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\obj\Debug\netcoreapp3.1\Alunos e notas.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\obj\Debug\netcoreapp3.1\Alunos e notas.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\obj\Debug\netcoreapp3.1\Alunos e notas.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 7\Alunos e notas\obj\Debug\netcoreapp3.1\Alunos e notas.genruntimeconfig.cache

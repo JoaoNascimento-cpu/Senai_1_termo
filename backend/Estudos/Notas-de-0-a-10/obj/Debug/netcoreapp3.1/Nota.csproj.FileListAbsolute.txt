@@ -1,0 +1,13 @@
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\bin\Debug\netcoreapp3.1\Nota.exe
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\bin\Debug\netcoreapp3.1\Nota.deps.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\bin\Debug\netcoreapp3.1\Nota.runtimeconfig.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\bin\Debug\netcoreapp3.1\Nota.runtimeconfig.dev.json
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\bin\Debug\netcoreapp3.1\Nota.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\bin\Debug\netcoreapp3.1\Nota.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\obj\Debug\netcoreapp3.1\Nota.csprojAssemblyReference.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\obj\Debug\netcoreapp3.1\Nota.AssemblyInfoInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\obj\Debug\netcoreapp3.1\Nota.AssemblyInfo.cs
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\obj\Debug\netcoreapp3.1\Nota.csproj.CoreCompileInputs.cache
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\obj\Debug\netcoreapp3.1\Nota.dll
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\obj\Debug\netcoreapp3.1\Nota.pdb
+C:\Users\jhony\Documents\Senai\C#\TRABALHO 1\backend\console\Projeto 5\Nota\obj\Debug\netcoreapp3.1\Nota.genruntimeconfig.cache

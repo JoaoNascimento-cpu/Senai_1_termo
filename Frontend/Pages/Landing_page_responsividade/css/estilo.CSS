@@ -1,0 +1,297 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.topo{
+    background-color: #f9003d;
+    width: 1360px;
+    height: 60px;
+    
+}
+.btnMenu{
+    display: none;
+}
+.menu{
+    width:  1360px;
+    height: 100%;
+    margin: 0 auto 0 auto;
+    display: flex;
+    justify-content: flex-end;
+}
+.menu ul{
+    width: 600px;
+    height: 100%;
+    list-style-type: none ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #f9003d;
+    font-size: 18px;
+    padding: 12px 30px;
+}
+
+.menu a:hover{
+    background-color: orange;
+    text-decoration: underline;
+}
+
+.banner{
+    width:  1360px;
+    height: 600px;
+    background-image: url("../img/imagem-fundo-banner.jpg");
+}
+
+.content{
+    height: 100%;
+    width: 95%;
+    max-width: 1100px;
+    /*background-color: #ffffff70;*/
+    margin: auto;
+}
+.alinhando-abaixo{
+    display: flex;
+    align-items: flex-end;
+}
+ /*início do banner*/
+.banner-text{
+    width: 560px;
+    height: 550px;
+    /*background-color: rgba(255, 255, 0, 0.466);*/
+}
+.banner-text h1{
+    font-size: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    border-bottom: solid 2px #ffaf00;
+    padding-bottom: 20px;
+}
+.banner-text p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: #ff0000;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.vermelho{
+    color: red;
+}
+/*final do banner*/
+
+/*sobre*/
+.sobre{
+    width:  1360px;
+    height: 600px;
+    background-color: #080324;
+}
+.sobre h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    color: #f9003d;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.artigo-sobre{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.artigo-sobre img{
+    width: 500px;
+    width: 45%;
+    max-width: 500px;
+    min-width: 450px;
+}
+.artigo-text-sobre{
+    width: 500px;
+    color: white;
+}
+.artigo-text-sobre h3:nth-child(1){
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.artigo-text-sobre h3:nth-child(2){
+    color: yellow;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 44px;
+}
+.text-artigo-sobre p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 35px;
+}
+/*informações*/
+.info{
+    width:  1360px;
+    height: 200px;
+    background-size: cover;
+    background-image: url("../img/imagem-fundo-info.jpg");
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
+.info h4{
+    color: #fff;
+    font-size: 24px;
+}
+.info p{
+    width: 200px;
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    border: solid 1px pink;
+    text-align: center;
+    padding-top: 1em 0;
+}
+.info-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/*endereço*/
+.endereco{
+    width:  1360px;
+    height: 500px;
+    background-image: url("../img/imagem-fundo-ranking.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.endereco h2{
+    font-size: 64px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: yellow;
+}
+.end-text{
+    width: 800px;
+    height: 210px;
+    background-color: #010010;
+    border: solid 2px white;
+    position: relative;
+}
+.end-text p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: #a259f7;
+    padding-top: 30px;
+    padding-left: 10px;
+} 
+.alinhamento-centro{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+}
+.end-text img{
+    position: absolute;
+    top: -55px;
+    right: 0;
+}
+.rodape{
+    width: 1360px;
+    height: 80px;
+    background-color: red;
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.alinhamento-centro1{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+@media screen and (max-width: 1360px){
+    .sobre{
+        height: auto;
+        padding-bottom: 4em;
+    }
+    
+    .sobre .content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .artigo-sobre{
+        justify-content: center;
+    }
+
+    .artigo-sobre img{
+        width: 100%;
+        max-width: 850px;
+        margin-bottom: 2em;
+    }
+
+    .artigo-text-sobre{
+        width: 800px;
+    }
+}
+
+@media screen and (max-width:991px){
+    .artigo-sobre img{
+        max-width: 991px;
+    }
+
+    .artigo-text-sobre{
+        width: 90%;
+    }
+
+    .info-card{
+        text-align: center;
+    }
+
+    .info p{
+        width: 220px;
+    }
+
+    .end-text{
+        width: 700px;
+        flex-direction: column;
+        height: auto;
+        padding: 2em 0;
+    }
+
+    .endereco{
+        height: auto;
+        padding-bottom: 2em;
+    }
+
+    .end-text img{
+        position: unset;
+        margin-top: 2em;
+    }
+}
+/* responsivo do 576 até 767 */
+@media screen and (max-width: 767px){
+    .menu{
+        width: 100%;
+    }
+
+    .menu ul{
+        width: 100%;
+        height: 360px;
+        background-color: #000000;
+        position: absolute;
+        top: 60px;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .menu ul a:hover{
+        background-color: unset;
+    }
+
+    .btnMenu{
+        display: block;
+    }
+}
+/* responsivo do 375 até 575*/
+@media screen and (max-width: 575px){
+
+}
